@@ -8,3 +8,5 @@ router.get("/:id", productController.getSingleProduct);
 router.put("/:id", productController.updateProduct);
 router.delete("/:id", productController.deleteProduct);
 router.get("/published", productController.getPublishedProduct);
+
+// test

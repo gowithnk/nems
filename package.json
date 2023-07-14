@@ -1,0 +1,31 @@
+{
+  "name": "nems",
+  "version": "1.0.0",
+  "description": "Node API with NodeJs, ExpressJs, MySQL and Sequelize",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowithnk/nems.git"
+  },
+  "author": "Niranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowithnk/nems/issues"
+  },
+  "homepage": "https://github.com/gowithnk/nems#readme",
+  "keywords": [
+    "node",
+    "express",
+    "mysql",
+    "sequelize"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.5.1",
+    "sequelize": "^6.32.1"
+  }
+}
